@@ -13,7 +13,7 @@ enum class ResourceType{
 };
 
 
-enum class Player{
+enum class PlayerColor{
 	Red,
 	Yellow, 
 	Purple,
